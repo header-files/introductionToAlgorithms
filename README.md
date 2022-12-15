@@ -22,3 +22,11 @@
 1. public void heapSort(int[] array)
 
    第89页，堆排序算法
+
+### [第七章节](src/Chapter6.java)
+1. public void quickSort(int[] array, int indexStart, int indexEnd)
+
+   第95页，快速排序算法
+2. public void randomizedQuickSort(int[] array, int indexStart, int indexEnd)
+   
+   第100页，快速排序算法的随机化版本
