@@ -40,3 +40,12 @@
 1. public int[] countingSort(int[] input, int k)
 
    第109页，计数排序算法
+
+### [第十五章节](src/Chapter15.java)
+
+1. public int memoizedCutRod(int[] p, int n)
+
+   第207页，自顶向下动态规划
+2. public int bottomUpCutRod(int[] p, int n)
+   
+   第208页，自底向上动态规划
